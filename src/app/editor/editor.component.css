@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.image-view {
+    width: 60%;
+}
+
+.tool-panel {
+    width: 40%;
+}
